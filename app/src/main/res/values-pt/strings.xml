@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+
+    <string name="nome_filme">Digite o nome do filme</string>
+    <string name="procurar_filme_button">Procurar filme</string>
+    <string name="titulo_pesquisa">Resultado pesquisa</string>
+    <string name="erro_leitura" >Erro de leitura</string>string>
+    <string name="erro_conexao">Erro de conexão</string>
+    <string name="erro_procura">Nome não encontrado. Por favor, tente outro nome.</string>
+    <string name="talkback_imagem">Imagem do filme</string>
+    <string name="titulo_fime">Nome do Filme</string>
+    <string name="data_public">Data de Publicação</string>
+    <string name="sumario_filme">Texto sobre a descrição do filme</string>
+    <string name="resultado_busca">Resultados para: </string>string>
+</resources>

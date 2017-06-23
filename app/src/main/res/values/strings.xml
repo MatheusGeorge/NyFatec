@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name" translatable="false">NY Review</string>
+
+    <string name="nome_filme">Name of the movie</string>
+    <string name="procurar_filme_button">Search Movie</string>
+    <string name="titulo_pesquisa">Result of Search</string>
+    <string name="erro_leitura" >Reading Error</string>string>
+    <string name="erro_conexao">Connection Error</string>
+    <string name="erro_procura">Not find the name movie. Please try another name.</string>
+    <string name="talkback_imagem">Image of Movie</string>
+    <string name="titulo_fime">Name Movie</string>
+    <string name="data_public">Publish Date</string>
+    <string name="sumario_filme">Movie description</string>
+    <string name="resultado_busca">Search: </string>string>
+    <string name="apiKey" translatable="false">d08391dd22714d9c8d337a0e07aa57b6</string>string>
+    <string name="stringURL" translatable="false">https://api.nytimes.com/svc/movies/v2/reviews/search.json</string>string>
+
+
+</resources>

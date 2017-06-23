@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_public">Fecha de publicación</string>
+    <string name="erro_conexao">Error de conexión</string>
+    <string name="erro_leitura">Error de lectura</string>
+    <string name="erro_procura">Nombre no encontrado. Por favor intente otro nombre</string>
+    <string name="nome_filme">Introduzca el nombre de la película</string>
+    <string name="procurar_filme_button">Buscar película</string>
+    <string name="resultado_busca">Resultados para:</string>
+    <string name="sumario_filme">Texto sobre la descripción de la película</string>
+    <string name="talkback_imagem">Imagen de la película</string>
+    <string name="titulo_fime">Nombre de la película</string>
+    <string name="titulo_pesquisa">Resultados búsqueda</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc gravacao\Desktop\NY\plojetoNinga\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="80b228b21f7da5f9c5f0ba9f4bce8ac9cdf5e50e">
+        <dex dex="C:\Users\Pc gravacao\Desktop\NY\plojetoNinga\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6fff291ea47262ffa2962c6708994d18623c127d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc gravacao\Desktop\NY\plojetoNinga\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\Pc gravacao\Desktop\NY\plojetoNinga\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4079ecf94d4f0f3db1e51f9bc4264622258c638a\classes.dex" />
+    </item>
+
+</items>

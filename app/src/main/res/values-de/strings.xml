@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_public">Datum der Veroffentlichung</string>
+    <string name="erro_conexao">Verbindungsfehler</string>
+    <string name="erro_leitura">Lesefehler</string>
+    <string name="erro_procura">Name nicht gefunden</string>
+    <string name="procurar_filme_button">Suchen Film</string>
+    <string name="resultado_busca">Ergebnisse fur:</string>
+    <string name="sumario_filme">Text in der Beschreibung des Films</string>
+    <string name="stringURL" translatable="false"></string>
+    <string name="talkback_imagem">Imagefilm</string>
+    <string name="titulo_fime">Filmnamen</string>
+    <string name="nome_filme">geben Sie den Namen des Films</string>
+    <string name="titulo_pesquisa">Sucher</string>
+</resources>

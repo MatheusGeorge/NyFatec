@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/moviesLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/filme_toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:titleTextColor="@color/cardview_light_background" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:elevation="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/filme_titulo_Text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="8dp"
+            android:contentDescription="@string/titulo_pesquisa"
+            android:text="@string/titulo_pesquisa"
+            android:textAlignment="center"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/filme_RecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/filme_titulo_Text_view" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
